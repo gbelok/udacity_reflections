@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
-It creates an initial git repository that you can add and push files to. It establishes it as a git repository. 
+It creates an initial git repository that you can add and push files to. It establishes it as a git repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area allows you to preview what you want to be committed before you actually make a change. 
