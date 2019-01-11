@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+In case anything happens to your computer, you would rather have your work stored somewhere safe (on another server, online)
